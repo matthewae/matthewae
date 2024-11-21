@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi, I'm Matthew Nathanael 👋
+Welcome to my GitHub!
+I am a 5th-semester Software Engineering student passionate about learning and exploring new technologies. My journey in tech focuses on building a strong foundation while creating small yet impactful projects to sharpen my skills.
 
-<!--
-**matthewae/matthewae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills I'm Developing:
+Front-End: HTML, CSS, JavaScript
+Back-End: PHP, Java
+Mobile Development: Flutter
+Other Expertise:UI/UX integration
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+Advanced concepts in Flutter for mobile development
+Enhancing my knowledge in full-stack web development
+Exploring modern tools and frameworks to stay up-to-date with industry trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Goals:
+To continuously improve my technical skills, contribute to collaborative projects, and eventually specialize in creating efficient and user-centric applications.
+
